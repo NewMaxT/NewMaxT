@@ -1,5 +1,5 @@
 <center>
-  
+  [![N|Solid](https://newmax.dev/Images/logo.png)](https://newmax.dev)
   <div style="width=50%; border-radius: 25px; border: 2px solid #313131;">
     [![N|Solid](https://newmax.dev/Images/logo.png)](https://newmax.dev)
   </div>
