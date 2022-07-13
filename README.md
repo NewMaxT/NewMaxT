@@ -1,5 +1,9 @@
 <center>
   
+  <div style="width=50%; border-radius: 25px; border: 2px solid #313131;">
+    [![N|Solid](https://newmax.dev/Images/logo.png)](https://newmax.dev)
+  </div>
+  
   C++/C# Developer on anything I love ! 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewMaxT&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
