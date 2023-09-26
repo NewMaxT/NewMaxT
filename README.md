@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://dashboard.shinsoku.cloud/templates/2019/dist/images/Logo_Shinsiku.png" width = 150px;>
+    <img src="http://dashboard.shinsoku.cloud/templates/2019/dist/images/Logo_Shinsiku.png" width = 150px;>
   
   Owner of [Shinsoku Cloud](https://shinsoku.cloud) 
   <br>Game and Software Developer
