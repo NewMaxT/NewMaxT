@@ -1,8 +1,7 @@
 <div align="center">
-    <img src="http://dashboard.shinsoku.cloud/templates/2019/dist/images/Logo_Shinsiku.png" width = 150px;>
-  
-  Owner of [Shinsoku Cloud](https://shinsoku.cloud) 
   <br>Game and Software Developer
+  <br><br><img alt="Hire Me on Contra" src="https://contra.com/static/embed/media/hiremeoncontra-light.png" srcset="https://contra.com/static/embed/media/hiremeoncontra-light.png 1x, https://contra.com/static/embed/media/hiremeoncontra-light@2x.png 2x" style="border-width: 0px;">
+
 
   More about me on my [website](https://newmax.dev) 
   <hr>
