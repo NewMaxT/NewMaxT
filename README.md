@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="" src="https://raw.githubusercontent.com/NewMaxT/NewMaxT/main/gif.gif">
-  <br>Game and Software Developer
+  <br>Software Developer
   
   More about me on my [website](https://newmax.dev) 
 
