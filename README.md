@@ -10,6 +10,8 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewMaxT&theme=dark)
   <br>
   <br>
+  [![roadmap.sh](https://roadmap.sh/card/wide/6779cc5470129741a856dbb7?variant=dark)](https://roadmap.sh)
+  <br>
   <br>
   ![trophy](https://github-profile-trophy.vercel.app/?username=NewMaxT&theme=discord&rank=-C,-B)
   <hr>
