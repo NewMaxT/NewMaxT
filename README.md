@@ -6,14 +6,10 @@
 
   <img alt="Hire Me on Contra" src="https://contra.com/static/embed/media/hiremeoncontra-light.png" srcset="https://contra.com/static/embed/media/hiremeoncontra-light.png 1x, https://contra.com/static/embed/media/hiremeoncontra-light@2x.png 2x" style="border-width: 0px;">
   <hr>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewMaxT&theme=dark)
-  <br>
-  <br>
-  [![roadmap.sh](https://roadmap.sh/card/wide/6779cc5470129741a856dbb7?variant=dark&roadmaps=cpp%2Capi-design%2Cdatastructures-and-algorithms%2Cbackend)](https://roadmap.sh)
-  <br>
-  <br>
-  ![trophy](https://github-profile-trophy.vercel.app/?username=NewMaxT&theme=discord&rank=-C,-B)
+  <p>
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31uxtrmakok5kq4dqtf7dqtkvkpe" target="_blank" rel="noopener noreferrer">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31uxtrmakok5kq4dqtf7dqtkvkpe"><br></a>
+  </p>
   <hr>
 </div>
 
