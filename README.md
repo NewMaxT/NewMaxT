@@ -6,7 +6,7 @@
   <br>My [APIs](https://api.newmax.dev)
   <br>My [Web Apps](https://apps.newmax.dev) 
 
-  <img alt="Hire Me on Contra" src="https://contra.com/static/embed/media/hiremeoncontra-light.png" srcset="https://contra.com/static/embed/media/hiremeoncontra-light.png 1x, https://contra.com/static/embed/media/hiremeoncontra-light@2x.png 2x" style="border-width: 0px;">
+  <a href="https://contra.com/maxence_goutteratel"><img alt="Hire Me on Contra" src="https://contra.com/static/embed/media/hiremeoncontra-light.png" srcset="https://contra.com/static/embed/media/hiremeoncontra-light.png 1x, https://contra.com/static/embed/media/hiremeoncontra-light@2x.png 2x" style="border-width: 0px;"></a>
   <hr>
   <p>
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31uxtrmakok5kq4dqtf7dqtkvkpe" target="_blank" rel="noopener noreferrer">
