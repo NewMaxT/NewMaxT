@@ -3,8 +3,8 @@
   <br>Software Developer
   
   More about me on my [website](https://newmax.dev)
-  My [APIs](https://newmax.dev)
-  My [Web Apps](https://newmax.dev) 
+  <br>My [APIs](https://newmax.dev)
+  <br>My [Web Apps](https://newmax.dev) 
 
   <img alt="Hire Me on Contra" src="https://contra.com/static/embed/media/hiremeoncontra-light.png" srcset="https://contra.com/static/embed/media/hiremeoncontra-light.png 1x, https://contra.com/static/embed/media/hiremeoncontra-light@2x.png 2x" style="border-width: 0px;">
   <hr>
