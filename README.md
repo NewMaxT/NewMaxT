@@ -2,9 +2,12 @@
   <img alt="" src="https://raw.githubusercontent.com/NewMaxT/NewMaxT/main/gif.gif">
   <br>Software Developer
   
-  More about me on my [website](https://newmax.dev)
-  <br>My [APIs](https://api.newmax.dev)
-  <br>My [Web Apps](https://apps.newmax.dev) 
+  My websites
+  <br>[newmax.dev](https://newmax.dev)
+  <br>[api.newmax.dev](https://api.newmax.dev)
+  <br>[apps.newmax.dev](https://apps.newmax.dev) 
+  <br>[status.newmax.dev](https://status.newmax.dev)
+  <br>[docs.newmax.dev](https://docs.newmax.dev) 
 
   <a href="https://contra.com/maxence_goutteratel"><img alt="Hire Me on Contra" src="https://contra.com/static/embed/media/hiremeoncontra-light.png" srcset="https://contra.com/static/embed/media/hiremeoncontra-light.png 1x, https://contra.com/static/embed/media/hiremeoncontra-light@2x.png 2x" style="border-width: 0px;"></a>
   <hr>
