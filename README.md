@@ -1,6 +1,7 @@
 <div align="center">
   <img alt="" src="https://raw.githubusercontent.com/NewMaxT/NewMaxT/main/gif.gif">
-  <br>Software Developer
+  <br>- Software Developer -
+  <a href="https://contra.com/maxence_goutteratel"><img alt="Hire Me on Contra" src="https://contra.com/static/embed/media/hiremeoncontra-light.png" srcset="https://contra.com/static/embed/media/hiremeoncontra-light.png 1x, https://contra.com/static/embed/media/hiremeoncontra-light@2x.png 2x" style="border-width: 0px;"></a>
   
   <br><br>- My websites -
   <br>[newmax.dev](https://newmax.dev)
@@ -10,7 +11,7 @@
   <br>[docs.newmax.dev](https://docs.newmax.dev)
   <br>[files.newmax.dev](https://files.newmax.dev) 
 
-  <a href="https://contra.com/maxence_goutteratel"><img alt="Hire Me on Contra" src="https://contra.com/static/embed/media/hiremeoncontra-light.png" srcset="https://contra.com/static/embed/media/hiremeoncontra-light.png 1x, https://contra.com/static/embed/media/hiremeoncontra-light@2x.png 2x" style="border-width: 0px;"></a>
+  
   <hr>
   <p>
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31uxtrmakok5kq4dqtf7dqtkvkpe" target="_blank" rel="noopener noreferrer">
