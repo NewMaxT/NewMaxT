@@ -1,9 +1,10 @@
 <div align="center">
   <img alt="" src="https://raw.githubusercontent.com/NewMaxT/NewMaxT/main/gif.gif">
-  <br>- C++/Back-End Developer -
-  <br><br>
-  
+  <br>
   <a href="https://contra.com/maxence_goutteratel"><img alt="Hire Me on Contra" src="https://contra.com/static/embed/media/hiremeoncontra-light.png" srcset="https://contra.com/static/embed/media/hiremeoncontra-light.png 1x, https://contra.com/static/embed/media/hiremeoncontra-light@2x.png 2x" style="border-width: 0px;"></a>
+  <br>
+  C++/Back-End Developer
+  <br><br>
   
   **- My websites -**
   <br>[newmax.dev](https://newmax.dev)
